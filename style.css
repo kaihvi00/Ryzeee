@@ -1,0 +1,31 @@
+body{
+		background: #FDA892;
+}
+
+i{
+		color: #FFF;
+		margin: 20px;
+		font-size: 30px; 
+		cursor: pointer;
+}
+
+a{
+		color: #FFF;
+		text-decoration: none;
+		margin: 10px;
+}
+
+.sm-container{
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		transform: translate(-50%,-50%);
+}
+
+.sm-menu{
+		background: #72C7FF;
+		position: absolute;
+		border-radius: 8px;
+		text-align: center;
+		display: none;
+}
